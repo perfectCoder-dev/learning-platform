@@ -138,11 +138,3 @@ nexora-project/
 
 ---
 
-## 📞 Contact
-
-Have questions or feedback?  
-Feel free to [open an issue](https://github.com/M4RKUS28/Nexora/issues) or contact the maintainer directly via GitHub.
-
----
-
-> Made with 💡 and 🧠 by the Nexora AI Team.
